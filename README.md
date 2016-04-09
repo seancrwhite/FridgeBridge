@@ -1,2 +1,1 @@
-# FridgeBridge
-Food tracker app for mobile and web.
+# Ionic 2 Tabs Starter
